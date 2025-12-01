@@ -82,7 +82,7 @@ export default function Page() {
                   <div className="text-slate-400"># Na raiz do projeto</div>
                   <div className="text-green-400">npm install</div>
                   <div className="text-green-400">npm start</div>
-                  <div className="text-slate-400 mt-2"># Backend rodando em http://localhost:3000</div>
+                  <div className="text-slate-400 mt-2"># Backend rodando localmente em http://localhost:3000 ou online em https://api-partytime-back.onrender.com/</div>
                 </div>
               </div>
 
@@ -99,7 +99,7 @@ export default function Page() {
                   <div className="text-blue-400">cd frontend</div>
                   <div className="text-blue-400">npm install</div>
                   <div className="text-blue-400">npm run dev</div>
-                  <div className="text-slate-400 mt-2"># Frontend rodando em http://localhost:5173</div>
+                  <div className="text-slate-400 mt-2"># Frontend rodando localmente em http://localhost:5173 ou online em https://api-partytime-front-khxp.vercel.app/</div>
                 </div>
               </div>
 
@@ -114,7 +114,7 @@ export default function Page() {
                 <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 border border-pink-500/30 rounded-lg p-4">
                   <p className="text-slate-300 mb-3">Abra seu navegador em:</p>
                   <a
-                    href="http://localhost:5173"
+                    href="https://api-partytime-front-khxp.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg font-medium hover:scale-105 transition-transform"
