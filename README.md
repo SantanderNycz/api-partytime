@@ -12,6 +12,7 @@ PartyTime é uma aplicação para gerenciamento de festas e eventos, integrando 
 - Cadastro e login de usuários  
 - Criação, edição e exclusão de eventos  
 - Consulta de eventos por usuário ou categoria  
+#### Obs.: Algumas em processo de implementação
 
 ## Tecnologias
 
